@@ -16,7 +16,7 @@
     "php": ">=5.4",
     "doctrine/cache": "^1.4",
     "doctrine/dbal": "~2.5",
-    "dwo/flagging": "^0.2.0@dev",
+    "dwo/flagging": "~0.2",
     "dwo/config_prototype": "1.0.*@dev"
   },
   "suggest": {
